@@ -32,51 +32,61 @@ Interested topics include, but are not limited to:
 
 To be announced
 
-> Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click [https://cmt3.research.microsoft.com/ACMLMoL2018](https://cmt3.research.microsoft.com/ACMLMoL2018) for submission.
+<!--
 
-> Papers should be formatted according to the ACML formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while submissions with at least 6 pages will be considered for the oral presentation. The selective oral papers will be invited for IEEE TNNLS Special Issue on "Structured Multi-output Learning: Modelling, Algorithm, Theory and Applications" ([https://cis.ieee.org/images/files/Documents/Transactions/TNNLS/TNNLS_SMLMATA-CFP.pdf](https://cis.ieee.org/images/files/Documents/Transactions/TNNLS/TNNLS_SMLMATA-CFP.pdf)).
+Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click [https://cmt3.research.microsoft.com/ACMLMoL2018](https://cmt3.research.microsoft.com/ACMLMoL2018) for submission.
 
-> ACML-MoL is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after ACML-MoL'18. Besides, we also welcome submissions to ACML-MoL that are under review at other conferences and workshops.
+Papers should be formatted according to the ACML formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while submissions with at least 6 pages will be considered for the oral presentation. The selective oral papers will be invited for IEEE TNNLS Special Issue on "Structured Multi-output Learning: Modelling, Algorithm, Theory and Applications" ([https://cis.ieee.org/images/files/Documents/Transactions/TNNLS/TNNLS_SMLMATA-CFP.pdf](https://cis.ieee.org/images/files/Documents/Transactions/TNNLS/TNNLS_SMLMATA-CFP.pdf)).
 
-> At least one author from each accepted paper must register for the workshop. Please see the ACML 2018 Website for information about accommodation and registration.
+ACML-MoL is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after ACML-MoL'18. Besides, we also welcome submissions to ACML-MoL that are under review at other conferences and workshops.
+
+At least one author from each accepted paper must register for the workshop. Please see the ACML 2018 Website for information about accommodation and registration.
+
+-->
 
 # Tentative Schedule
 
 To be announced
 
-> 8:50 - 9:00 Introduction
+<!--
 
-> 9:00 - 10:00 Invited Keynote Talk
+8:50 - 9:00 Introduction
 
-> ===10:00-10:30 Morning tea===
+9:00 - 10:00 Invited Keynote Talk
 
-> 10:30 - 10:55 Paper presentation
+===10:00-10:30 Morning tea===
 
-> 10:55 - 11:20 Paper presentation
+10:30 - 10:55 Paper presentation
 
-> 11:20 - 11:35 Paper presentation
+10:55 - 11:20 Paper presentation
 
-> ===11:35 - 11:50 Panel discussion===
+11:20 - 11:35 Paper presentation
 
-> 11:50 - 12:05 Paper presentation
+===11:35 - 11:50 Panel discussion===
 
-> 12:05 - 12:20 Paper presentation
+11:50 - 12:05 Paper presentation
 
-> 12:20 - 12:35 Paper presentation
+12:05 - 12:20 Paper presentation
 
-> ===12:35 - 12:50 Panel discussion===
+12:20 - 12:35 Paper presentation
 
+===12:35 - 12:50 Panel discussion===
 
+-->
 
 # Important Dates
 
 To be announced
 
-> Submission: 20 Sep, 2018.
+<!--
 
-> Notification: 01 Oct, 2018.
+Submission: 20 Sep, 2018.
 
-> Workshop: 14 Nov, 2018.
+Notification: 01 Oct, 2018.
+
+Workshop: 14 Nov, 2018.
+
+-->
 
 # Organizers
 
