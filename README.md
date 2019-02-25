@@ -101,7 +101,7 @@ Prof. **Heng Huang**, University of Pittsburgh, USA.
 | 14:30-15:30   | Coffee Break & Poster Session of Contributed Works |
 | 15:30-16:05   | **Keynote Talk 5**    |
 | 16:05-16:40   | **Keynote Talk 6**    |
-| 16:40-17:15   | **Panel Discussion**: Opportunities and Challenges for MoL (by invited speakers and organizers) |
+| 16:40-17:15   | **Panel Discussion**: Opportunities and Challenges for MoL |
 | 17:15-17:30   | Award Ceremony & Closing Session |
 
 
