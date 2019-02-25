@@ -1,8 +1,11 @@
-# Motivation and Objectives
+# Topic Description
 
-Multi-output learning [1][13] aims to predict multiple outputs for an input, where the output values are characterized by diverse data types, such as binary, nominal, ordinal and real-valued variables. Such learning tasks arise in a variety of real-world applications, ranging from document classification, computer emulation, sensor network analysis, concept-based information retrieval, human action/causal induction, to video analysis, image annotation/retrieval, gene function prediction and brain science. Due to its popularity in applications, multi-output learning has also been widely explored in machine learning community, such as multi-label/multi-class classification [2][8], multi-target regression, hierarchical classification with class taxonomies, label sequence learning, sequence alignment learning, and supervised grammar learning, and so on.
+Multi-output learning (MoL) aims to predict multiple outputs for an input, where the output values are characterized by diverse data types, such as binary, nominal, ordinal and real-valued variables. Such learning tasks arise in a variety of real-world applications, ranging from document classification, computer emulation, sensor network analysis, concept-based information retrieval, human action/causal induction, to video analysis, image annotation/retrieval, gene function prediction and brain science. Due to its popularity in applications, multi-output learning has also been widely explored in machine learning community, such as multi-label/multi-class classification, multi-target regression, hierarchical classification with class taxonomies, label sequence learning, sequence alignment learning, supervised grammar learning, and so on.
 
-The theoretical properties of existing approaches for multi-output data are still not well understood. This triggers practitioners to develop novel methodologies [5][9][11] and theories [3] to deeply understand multi-output learning tasks. Moreover, the emerging trends of ultrahigh input and output dimensionality [7], and the complexly structured objects [4], lead to formidable challenges for multi-output learning. Therefore, it is imperative to propose practical mechanisms and efficient optimization algorithms [8][10][12] for large-scale applications. Deep learning has gained much popularity in today’s research, and has been developed in recent years to deal with multi-label and multi-class classification problems. However, it remains non-trivial for practitioners to design novel deep neural networks [6] that are appropriate for more comprehensive multi-output learning domains.
+The theoretical properties of existing approaches for multi-output data are still not well understood. This triggers practitioners to develop novel methodologies and theories to deeply understand multi-output learning tasks. Moreover, the emerging trends of ultrahigh input and output dimensionality, and the complexly structured objects, lead to formidable challenges for multi-output learning. Therefore, it is imperative to propose practical mechanisms and efficient optimization algorithms for large-scale applications. Deep learning has gained much popularity in today’s research, and has been developed in recent years to deal with multi-label and multi-class classification problems. However, it remains non-trivial for practitioners to design novel deep neural networks that are appropriate for more comprehensive multi-output learning domains.
+
+This workshop aims to publish state-of-the-art scientific works along this direction. We welcome all the original submissions with significant novel results, focusing on modelling, algorithm, theory, and real-world applications in the field of multi-output learning.
+
 
 # Topics of Interest
 
@@ -24,13 +27,26 @@ Interested topics include, but are not limited to:
 
 - Metric learning for multi-output data.
 
-- Multi-output learning with noisy data.
+- Multi-output learning with noisy data.  
 
-- Multi-output learning with imbalanced data.
+- Multi-output learning with imbalanced data. 
+
+- New applications.
+
 
 # Submission Guidelines
 
-To be announced
+Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click https://cmt3.research.microsoft.com/IJCAIMOL2019 for submission. 
+
+Papers should be formatted according to the IJCAI formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while the submissions with at least 6 pages will be considered for the oral presentation. 
+
+IJCAI-MoL is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after IJCAI-MoL'19. Besides, we also welcome submissions to IJCAI-MoL that are under review at other conferences and workshops. 
+
+At least one author from each accepted paper must register for the workshop. Please see the IJCAI 2019 Website for information about accommodation and registration. 
+
+
+<!-- To be announced
+-->
 
 <!--
 
@@ -44,9 +60,54 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 -->
 
+# Preliminary list of invited speakers
+
+The MoL workshop will feature on **full-day** events. We plan to invite **6 to 7 keynote speakers** who are leading experts from both academia and industry. A list of keynote speakers includes:
+
+Prof. **Sinno Jialin Pan**, Nanyang Technological University, Singapore (Confirmed)
+
+Prof. **Manik Varma**, Microsoft Research India, and Adjunct Professor of computer science at the Indian Institute of Technology (IIT) Delhi  (Confirmed)
+
+Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, UK (Confirmed)
+
+Prof. **Dacheng Tao**, University of Sydney;
+
+Prof. **Zoubin Ghahramani**, Cambridge University; 
+
+Prof. **Xiaojin Zhu**, the University of Wisconsin-Madison; 
+
+Prof. **Steven C.H. Hoi**, Singapore Management University, Singapore; 
+
+Prof. **Huan Liu**, Arizona State University, USA;
+
+Prof. **Kai-Wei Chang**, UCLA, USA;
+
+Prof. **Heng Huang**, University of Pittsburgh, USA.
+
+
 # Tentative Schedule
 
+
+| Time          | Event             |
+| ------------- | -------------     |
+| 08:30-08:45   | Opening Ceremony  |
+| 08:45-09:20   | **Keynote Talk 1**    |
+| 09:25-10:00   | **Keynote Talk 2**    |
+| 10:00-10:30   | Coffee Break      |
+| 10:30-12:00   | Oral Presentations of Accepted Submissions |
+| 12:00-13:15   | Lunch Break       |
+| 13:15-13:50   | **Keynote Talk 3**    |
+| 13:55-14:30   | **Keynote Talk 4**   |
+| 14:30-15:30   | Coffee Break & Poster Session of Contributed Works |
+| 15:30-16:05   | **Keynote Talk 5**    |
+| 16:05-16:40   | **Keynote Talk 6**    |
+| 16:40-17:15   | **Panel Discussion**: Opportunities and Challenges for MoL (by invited speakers and organizers) |
+| 17:15-17:30   | Award Ceremony & Closing Session |
+
+
+<!--
 To be announced
+-->
 
 <!--
 
@@ -76,9 +137,16 @@ To be announced
 
 # Important Dates
 
-To be announced
+Submission Deadline: AprilJuly 12thst, 2019
 
-<!--
+Acceptance Notifications: JuneJuly 20 5th, 2019
+
+Camera-ready: August 1st, 2019
+
+
+<!--To be announced
+
+
 
 Submission: 20 Sep, 2018.
 
@@ -103,30 +171,3 @@ Yew-Soon Ong, Nanyang Technological University, Singapore.
 Ivor W. Tsang, University of Technology Sydney, Australia.
 
 
-# Reference
-
-[1] Mauricio A. Álvarez, Lorenzo Rosasco, Neil D. Lawrence, Kernels for Vector-Valued Functions: A Review, Foundations and Trends in Machine Learning, 2012.
-
-[2] Weiwei Liu, Ivor W. Tsang, Large Margin Metric Learning for Multi-Label Prediction, AAAI, 2015.
-
-[3] Weiwei Liu, Ivor W. Tsang, On the Optimality of Classifier Chain for Multi-label Classification, NIPS, 2015.
-
-[4] Mingkui Tan, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Junbin Gao, Fuyuan Hu, Zhen Zhang, Learning graph structure for multi-label image classification via clique generation, CVPR, 2015.
-
-[5] Chen Gong, Dacheng Tao, Jie Yang, Wei Liu, Teaching-to-Learn and Learning-to-Teach for Multi-label Propagation, AAAI, 2016.
-
-[6] Moustapha Cissé, Maruan Al-Shedivat, Samy Bengio, ADIOS: Architectures Deep In Output Space, ICML, 2017.
-
-[7] Weiwei Liu, Ivor W. Tsang, Making Decision Trees Feasible in Ultrahigh Feature and Label Dimensions, JMLR, 2017.
-
-[8] Weiwei Liu, Ivor W. Tsang, Klaus-Robert Müller, An Easy-to-hard Learning Paradigm for Multiple Classes and Multiple Labels, JMLR, 2017.
-
-[9] Chen Gong, Tongliang Liu, Yuanyan Tang, Jian Yang, Jie Yang, Dacheng Tao, A Regularization Approach for Instance-Based Superset Label Learning, TCYB, 2018.
-
-[10] Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong, Compact Multi-Label Learning, AAAI, 2018.
-
-[11] Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong, Multilabel Prediction via Cross-View Search, TNNLS, 2018.
-
-[12] Xiaobo Shen, Weiwei Liu, Yong Luo, Yew-Soon Ong, Ivor W. Tsang, Deep Discrete Prototype Multilabel Learning, IJCAI, 2018.
-
-[13] Weiwei Liu, Donna Xu, Ivor Tsang, Wenjie Zhang, Metric Learning for Multi-output Tasks, TPAMI, 2018.
