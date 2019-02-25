@@ -137,9 +137,9 @@ To be announced
 
 # Important Dates
 
-Submission Deadline: AprilJuly 12thst, 2019
+Submission Deadline: April 12th, 2019
 
-Acceptance Notifications: JuneJuly 20 5th, 2019
+Acceptance Notifications: June 5th, 2019
 
 Camera-ready: August 1st, 2019
 
