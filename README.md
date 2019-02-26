@@ -38,7 +38,7 @@ Interested topics include, but are not limited to:
 
 Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click https://cmt3.research.microsoft.com/IJCAIMOL2019 for submission. 
 
-Papers should be formatted according to the IJCAI formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while the submissions with at least 6 pages will be considered for the oral presentation. 
+Papers should be formatted according to the IJCAI formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while the submissions with at least 4 pages will be considered for the oral presentation. 
 
 IJCAI-MoL is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after IJCAI-MoL'19. Besides, we also welcome submissions to IJCAI-MoL that are under review at other conferences and workshops. 
 
@@ -137,7 +137,7 @@ To be announced
 
 # Important Dates
 
-Submission Deadline: April 12th, 2019
+Submission Deadline: 05:00 PM (Pacific Time), April 12th, 2019
 
 Acceptance Notifications: June 5th, 2019
 
