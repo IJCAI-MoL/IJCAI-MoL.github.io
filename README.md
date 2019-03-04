@@ -70,22 +70,7 @@ Prof. **Sinno Jialin Pan**, Nanyang Technological University, Singapore (Confirm
 Prof. **Manik Varma**, Microsoft Research India, and Adjunct Professor of computer science at the Indian Institute of Technology (IIT) Delhi  (Confirmed)
 
 Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, UK (Confirmed)
-<!--
-Prof. **Dacheng Tao**, University of Sydney;
 
-Prof. **Zoubin Ghahramani**, Cambridge University; 
-
-Prof. **Xiaojin Zhu**, the University of Wisconsin-Madison; 
-
-Prof. **Steven C.H. Hoi**, Singapore Management University, Singapore; 
-
-Prof. **Huan Liu**, Arizona State University, USA;
-
-Prof. **Kai-Wei Chang**, UCLA, USA;
-
-Prof. **Heng Huang**, University of Pittsburgh, USA.
-
--->
 
 # Tentative Schedule
 
