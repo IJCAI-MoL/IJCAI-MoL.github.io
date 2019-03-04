@@ -62,6 +62,7 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 # Preliminary list of invited speakers
 
+
 The MoL workshop will feature on **full-day** events. We plan to invite **6 to 7 keynote speakers** who are leading experts from both academia and industry. A list of keynote speakers includes:
 
 Prof. **Sinno Jialin Pan**, Nanyang Technological University, Singapore (Confirmed)
@@ -69,7 +70,7 @@ Prof. **Sinno Jialin Pan**, Nanyang Technological University, Singapore (Confirm
 Prof. **Manik Varma**, Microsoft Research India, and Adjunct Professor of computer science at the Indian Institute of Technology (IIT) Delhi  (Confirmed)
 
 Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, UK (Confirmed)
-
+<!--
 Prof. **Dacheng Tao**, University of Sydney;
 
 Prof. **Zoubin Ghahramani**, Cambridge University; 
@@ -84,6 +85,7 @@ Prof. **Kai-Wei Chang**, UCLA, USA;
 
 Prof. **Heng Huang**, University of Pittsburgh, USA.
 
+-->
 
 # Tentative Schedule
 
