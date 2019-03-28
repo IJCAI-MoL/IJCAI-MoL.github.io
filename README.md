@@ -36,7 +36,7 @@ Interested topics include, but are not limited to:
 
 # Submission Guidelines
 
-Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click https://cmt3.research.microsoft.com/IJCAIMOL2019 for submission. 
+Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click [https://cmt3.research.microsoft.com/IJCAIMOL2019](https://cmt3.research.microsoft.com/IJCAIMOL2019) for submission. 
 
 Papers should be formatted according to the IJCAI formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while the submissions with at least 4 pages will be considered for the oral presentation. 
 
