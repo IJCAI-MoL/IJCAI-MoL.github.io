@@ -124,7 +124,7 @@ To be announced
 
 # Important Dates
 
-Submission Deadline: 05:00 PM (Pacific Time), April 12th, 2019
+Submission Deadline: 05:00 PM (Pacific Time), May 16th, 2019
 
 Acceptance Notifications: June 5th, 2019
 
