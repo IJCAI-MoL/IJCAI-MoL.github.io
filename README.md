@@ -80,11 +80,11 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 
 | Time          | Event             |
 | ------------- | -------------     |
-| 08:30-08:45   | Opening Ceremony  |
+| 08:30-08:45   | **Opening Ceremony**  |
 | 08:45-09:20   | **Keynote Talk 1**  |  
 |               | **Title**: TBD        |
 |               | **Speaker**: Sinno Jialin Pan (Nanyang Technological University) |
-| 09:20-9:40   | **Paper Talk 1**    |
+| 09:20-09:40   | **Paper Talk 1**    |
 |               | **Title**: Using Evolutionary Multi-label Classification to Predict Malfunctions in Virtual Storage Systems Monitoring        |
 |               | **Authors**: Yu Bai, Michael Bain |
 | 09:40-10:15   | **Keynote Talk 2**  |  
