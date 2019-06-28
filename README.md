@@ -101,8 +101,8 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 |               | **Title**: Sequence Learning to Estimate time of Travel and Stop        |
 |               | **Authors**: Jessie Sun, Shujuan Sun |
 | 11:50-12:30   | **Panel Discussion & Concluding Remark**    |
-|               | **Host**: Ivor W. Tsang        |
-|               | **Guests**: Sinno Jialin Pan, Manik Varma, Vladimir Pavlovic |
+|               | **Host**: Chen Gong        |
+|               | **Guests**: Manik Varma, Vladimir Pavlovic, Ivor W. Tsang |
 
 
 <!--
