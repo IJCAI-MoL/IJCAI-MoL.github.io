@@ -60,10 +60,12 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 -->
 
+<!--
+
 # Preliminary list of invited speakers
 
 
-The MoL workshop will feature on **full-day** events. We plan to invite **6 to 7 keynote speakers** who are leading experts from both academia and industry. A list of keynote speakers includes:
+The MoL workshop will feature on a **half-day** event. We plan to invite **6 to 7 keynote speakers** who are leading experts from both academia and industry. A list of keynote speakers includes:
 
 Prof. **Sinno Jialin Pan**, Nanyang Technological University, Singapore (Confirmed)
 
@@ -71,6 +73,7 @@ Prof. **Manik Varma**, Microsoft Research India, and Adjunct Professor of comput
 
 Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, UK (Confirmed)
 
+-->
 
 # Tentative Schedule
 
@@ -78,18 +81,28 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 | Time          | Event             |
 | ------------- | -------------     |
 | 08:30-08:45   | Opening Ceremony  |
-| 08:45-09:20   | **Keynote Talk 1**    |
-| 09:25-10:00   | **Keynote Talk 2**    |
-| 10:00-10:30   | Coffee Break      |
-| 10:30-12:00   | Oral Presentations of Accepted Submissions |
-| 12:00-13:15   | Lunch Break       |
-| 13:15-13:50   | **Keynote Talk 3**    |
-| 13:55-14:30   | **Keynote Talk 4**   |
-| 14:30-15:30   | Coffee Break & Poster Session of Contributed Works |
-| 15:30-16:05   | **Keynote Talk 5**    |
-| 16:05-16:40   | **Keynote Talk 6**    |
-| 16:40-17:15   | **Panel Discussion**: Opportunities and Challenges for MoL |
-| 17:15-17:30   | Award Ceremony & Closing Session |
+| 08:45-09:20   | **Keynote Talk 1**  |  
+|               | **Title**: TBD        |
+|               | **Speaker**: Sinno Jialin Pan (Nanyang Technological University) |
+| 09:20-9:40   | **Paper Talk 1**    |
+|               | **Title**: Using Evolutionary Multi-label Classification to Predict Malfunctions in Virtual Storage Systems Monitoring        |
+|               | **Authors**: Yu Bai, Michael Bain |
+| 09:40-10:15   | **Keynote Talk 2**  |  
+|               | **Title**: TBD        |
+|               | **Speaker**: Manik Varma  (Microsoft Research India) |
+| 10:15-10:35   | Coffee Break      |
+| 10:35-10:55   | **Paper Talk 2**    |
+|               | **Title**: Which Ones Are Speaking? Integrating Speaker Information for Multi-talker Speech Separation        |
+|               | **Authors**: Jing Shi |
+| 10:55-11:30   | **Keynote Talk 3**  |  
+|               | **Title**: TBD        |
+|               | **Speaker**: Vladimir Pavlovic  (Rutgers University) |
+| 11:30-11:50   | **Paper Talk 2**    |
+|               | **Title**: Sequence Learning to Estimate time of Travel and Stop        |
+|               | **Authors**: Jessie Sun, Shujuan Sun |
+| 11:50-12:30   | **Panel Discussion & Concluding Remark**    |
+|               | **Host**: Ivor W. Tsang        |
+|               | **Guests**: Sinno Jialin Pan, Manik Varma, Vladimir Pavlovic |
 
 
 <!--
