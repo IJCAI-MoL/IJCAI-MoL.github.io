@@ -77,6 +77,9 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 
 # Tentative Schedule
 
+**Date**: date Aug 12, 2019
+
+**Venue**: Room Sicily 2406 at The Venetian Macao Resort Hotel
 
 | Time          | Event             |
 | ------------- | -------------     |
