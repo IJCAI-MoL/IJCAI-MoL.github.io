@@ -85,13 +85,13 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 | ------------- | -------------     |
 | 08:30-08:45   | **Opening Ceremony**  |
 | 08:45-09:20   | **Keynote Talk 1**  |  
-|               | **Title**: TBD        |
+|               | **Title**: Syntactically-Meaningful and Transferable Recursive Neural Networks for Fine-grained Sentiment Analysis        |
 |               | **Speaker**: Sinno Jialin Pan (Nanyang Technological University) |
 | 09:20-09:40   | **Paper Talk 1**    |
 |               | **Title**: Using Evolutionary Multi-label Classification to Predict Malfunctions in Virtual Storage Systems Monitoring        |
 |               | **Authors**: Yu Bai, Michael Bain |
 | 09:40-10:15   | **Keynote Talk 2**  |  
-|               | **Title**: TBD        |
+|               | **Title**: Extreme Classification        |
 |               | **Speaker**: Manik Varma  (Microsoft Research India) |
 | 10:15-10:35   | Coffee Break      |
 | 10:35-10:55   | **Paper Talk 2**    |
@@ -100,7 +100,7 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 | 10:55-11:30   | **Keynote Talk 3**  |  
 |               | **Title**: TBD        |
 |               | **Speaker**: Vladimir Pavlovic  (Rutgers University) |
-| 11:30-11:50   | **Paper Talk 2**    |
+| 11:30-11:50   | **Paper Talk 3**    |
 |               | **Title**: Sequence Learning to Estimate time of Travel and Stop        |
 |               | **Authors**: Jessie Sun, Shujuan Sun |
 | 11:50-12:30   | **Panel Discussion & Concluding Remark**    |
