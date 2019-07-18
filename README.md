@@ -91,15 +91,15 @@ Prof. **Vladimir Pavlovic**, Rutgers University, USA, and Samsung Electronics, U
 |               | **Title**: Using Evolutionary Multi-label Classification to Predict Malfunctions in Virtual Storage Systems Monitoring        |
 |               | **Authors**: Yu Bai, Michael Bain |
 | 09:40-10:15   | **Keynote Talk 2**  |  
-|               | **Title**: Extreme Classification        |
-|               | **Speaker**: Manik Varma  (Microsoft Research India) |
+|               | **Title**:  TBD       |
+|               | **Speaker**: Vladimir Pavlovic  (Rutgers University) |
 | 10:15-10:35   | Coffee Break      |
 | 10:35-10:55   | **Paper Talk 2**    |
 |               | **Title**: Which Ones Are Speaking? Integrating Speaker Information for Multi-talker Speech Separation        |
 |               | **Authors**: Jing Shi |
 | 10:55-11:30   | **Keynote Talk 3**  |  
-|               | **Title**: TBD        |
-|               | **Speaker**: Vladimir Pavlovic  (Rutgers University) |
+|               | **Title**: Extreme Classification        |
+|               | **Speaker**: Manik Varma  (Microsoft Research India) |
 | 11:30-11:50   | **Paper Talk 3**    |
 |               | **Title**: Sequence Learning to Estimate time of Travel and Stop        |
 |               | **Authors**: Jessie Sun, Shujuan Sun |
